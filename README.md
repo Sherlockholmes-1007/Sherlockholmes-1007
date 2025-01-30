@@ -70,6 +70,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sherlockholmes-1007/Sherlockholmes-1007/output/snake.svg" alt="Snake animation" />
-
 ###
