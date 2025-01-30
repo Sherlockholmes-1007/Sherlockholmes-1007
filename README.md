@@ -26,6 +26,10 @@
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:1024/0*OZw0_xMOqSVtJoIY.png" height="30" alt="robotframework logo"  />
   <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/43/2/playwright-logo-png_seeklogo-435674.png" height="30" alt="Playwright logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" height="30" alt="cypress logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo"  />
