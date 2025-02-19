@@ -1,5 +1,19 @@
-<h3 align="left">Hi 👋! My name is Hari Krishnan aka Sherlock Holmes and I'm a Software Quality Engineer and Cyber Security Analyst from India</h3>
+<h1 align="left">Hi 👋! My name is Hari Krishnan aka Sherlock Holmes from India</h1>
+<h3 align="left">🚀 SDET | QA Engineer | Blockchain Enthusiast | cyber security engineer |</h3>
 
+### 🌟 **About Me**
+- 💻 **Software Development Engineer in Test (SDET)**
+- 🧪 **4+ Years of Experience** in QA, Automation, and Testing
+- 🚀 **Blockchain & NFT Testing Enthusiast**
+- 🔍 Passionate about **Cybersecurity & Web3 Testing**
+- 📚 Currently learning **Cypress, Playwright, and Blockchain Testing**
+
+### 📚 **What I'm Currently Learning**
+- 🔥 **Playwright + Cucumber Framework**
+- 🌍 **Testing Blockchain & NFTs on OpenSea & Rarible**
+- ⚙️ **Cybersecurity & Ethical Hacking**
+- 🎯 **Deploying NFT Marketplaces on Testnet/Mainnet**
+  
 ###
 
 <div align="center">
@@ -75,5 +89,8 @@
 ###
 
 <br clear="both">
+
+### 🎯 **Fun Fact**
+> "A bug-free software is a myth, but a well-tested software is a reality! 🚀"
 
 ###
