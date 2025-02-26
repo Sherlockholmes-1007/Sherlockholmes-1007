@@ -3,7 +3,7 @@
 
 ### 🌟 **About Me**
 - 💻 **Software Development Engineer in Test (SDET)**
-- 🧪 **2+ Years of Experience** in QA, Automation, and Penetration Testing
+- 🧪 **1+ Years of Experience** in QA, Automation, and Penetration Testing
 - 🚀 **Blockchain & NFT Testing Enthusiast**
 - 🔍 Passionate about **Cybersecurity & Web3 Testing**
 - 📚 Currently learning **Cypress, Playwright, and Blockchain Testing**
