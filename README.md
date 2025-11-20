@@ -6,7 +6,7 @@
 - 🧪 **2+ Years of Experience** in QA, Automation, and Penetration Testing
 - 🚀 **Blockchain & NFT Testing Enthusiast**
 - 🔍 Passionate about **Cybersecurity & Web3 Testing**
-- 📚 Currently learning **Cypress, Playwright, and Blockchain Testing**
+- 📚 Automation Tools**Cypress, Playwright,Robot Framework**
 
 ### 📚 **What I'm Currently Learning**
 - 🔥 **Playwright + Cucumber Framework**
